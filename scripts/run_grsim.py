@@ -3,5 +3,5 @@ import rospy
 import rospkg
 import os
 
-myCmd = '/home/ricardo/ssl_ws/src/grSim/bin/grSim'
+myCmd = '~/urucup_ws/src/grSim/bin/grSim'
 os.system(myCmd)
